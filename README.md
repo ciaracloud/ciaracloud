@@ -1,6 +1,7 @@
 ###  Hi 👋 I’m Ciara! ###
-- 👀 I’m interested in ... 
-- :computer: I’m currently learning at DigitalCrafts Software Engineering Immersive Program 
+
+- :computer: I’m currently learning full stack web development at DigitalCrafts Software Engineering Immersive Program 
+- :mailbox: How to reach me: [ciarafcloud@gmail.com](ciarafcloud@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ciaracloud/)
 - :heart_eyes_cat: Cat mom 
 
 
