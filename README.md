@@ -1,11 +1,11 @@
-###  Hi 👋 I’m Ciara! ###
+##  Hi 👋 I’m Ciara! ##
 
 - :computer: I’m currently learning full stack web development at DigitalCrafts Software Engineering Immersive Program 
 - :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/ciaracloud/) or ciarafcloud@gmail.com 
 - :heart_eyes_cat: Cat mom 
 
 ---
-#### Languages: ####
+### Languages: ###
 
 ![General badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![General badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
