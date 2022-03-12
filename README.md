@@ -1,7 +1,7 @@
 ##  Hi 👋 I’m Ciara! ##
 
 - :computer: I’m currently learning full stack web development at DigitalCrafts Software Engineering Immersive Program 
-- :seedling: I'm currently learning about back-end development
+- :seedling: I'm currently working on a full stack project with my partner @JAReichert
 - :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/ciaracloud/) or ciarafcloud@gmail.com 
 
 
