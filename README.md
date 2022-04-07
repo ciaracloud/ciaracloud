@@ -1,3 +1,5 @@
+<img src="https://github.com/ciaracloud/ciaracloud/blob/main/illustration.png" alt="ciara banner" width=200>
+
 ##  Hi 👋 I’m Ciara! ##
 
 - :computer: I’m currently learning full stack web development at DigitalCrafts Software Engineering Immersive Program 
