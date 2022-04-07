@@ -1,4 +1,4 @@
-<img src="https://github.com/ciaracloud/ciaracloud/blob/main/illustration.png" alt="ciara banner" width=800>
+<img src="https://github.com/ciaracloud/ciaracloud/blob/main/illustration.png" alt="ciara banner" width=1000>
 
 ##  Hi 👋 I’m Ciara! ##
 
