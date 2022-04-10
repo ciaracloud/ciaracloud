@@ -7,7 +7,7 @@
 - 💻 Portfolio: [ciaracloud.dev](https://www.ciaracloud.dev/)
 
 ---
-### Languages: ###
+### Technical Skills: ###
 
 ![General badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![General badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
