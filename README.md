@@ -1,7 +1,7 @@
 
 ##  Hi 👋 I’m Ciara! ##
 
-- 🎓 I’m a graduate of DigitalCrafts Web Development Bootcamp
+- 🎓 I’m a graduate of DigitalCrafts Full Stack Web Development Bootcamp
 - ☕ I'm currently learning Java (to see my progress, check out [this repo]()!)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ciaracloud/) or ciarafcloud@gmail.com 
 - 💻 Portfolio: [ciaracloud.dev](https://www.ciaracloud.dev/)
