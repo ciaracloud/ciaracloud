@@ -1,8 +1,8 @@
 
 ##  Hi 👋 I’m Ciara! ##
 
-- 🎓 I’m nearing the end of my 16 weeks at DigitalCrafts Software Engineering Immersive Program 
-- :pineapple: I'm currently building a smoothie/nutrition app in React (to see my progress, check out [this repo](https://github.com/ciaracloud/smoothieApp)!)
+- 🎓 I’m a graduate of DigitalCrafts Web Development Bootcamp
+- :pineapple: I'm currently learning Java (to see my progress, check out [this repo]()!)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ciaracloud/) or ciarafcloud@gmail.com 
 - 💻 Portfolio: [ciaracloud.dev](https://www.ciaracloud.dev/)
 
